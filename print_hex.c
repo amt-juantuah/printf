@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
   * print_hex_lower - prints lower case hexadecimal
