@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
   * print_S - prints custom specifier
